@@ -1,0 +1,18 @@
+{
+  "name": "pharmstock-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "@anthropic-ai/sdk": "^0.20.0",
+    "recharts": "^2.10.0",
+    "xlsx": "^0.18.5"
+  }
+}
